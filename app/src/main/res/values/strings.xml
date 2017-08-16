@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CommonView</string>
+    <string name="dialogTitle">dialogTitle</string>
+    <string name="dialogContent">dialogContent</string>
+    <string name="cancel">cancel</string>
+    <string name="submit">submit</string>
+</resources>
